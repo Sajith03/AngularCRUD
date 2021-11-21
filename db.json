@@ -1,0 +1,62 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Sus12",
+      "lastName": "Ajsdh",
+      "email": "dfbjd@gmail.com",
+      "mobile": "+94765890000",
+      "salary": "$13321"
+    },
+    {
+      "id": 3,
+      "firstName": "Silva",
+      "lastName": "De",
+      "email": "silva@gmailcom",
+      "mobile": "+45641216421",
+      "salary": "$12000"
+    },
+    {
+      "id": 4,
+      "firstName": "Sajith45",
+      "lastName": "Madhusankha",
+      "email": "madusankas405@gmail.com",
+      "mobile": "+947658912000",
+      "salary": "$15000"
+    },
+    {
+      "id": 5,
+      "firstName": "Sajith",
+      "lastName": "Madhusankha",
+      "email": "madusankas405@gmail.com",
+      "mobile": "+94765890000",
+      "salary": "$12000"
+    },
+    {
+      "id": 6,
+      "firstName": "Susith",
+      "lastName": "Jeewantha",
+      "email": "susith@gmail.com",
+      "mobile": "+9476581546",
+      "salary": "$25000"
+    },
+    {
+      "id": 7,
+      "firstName": "Sajith",
+      "lastName": "96",
+      "email": "madusankas405@gmail.com",
+      "mobile": "+78864446413",
+      "salary": "$15220"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
